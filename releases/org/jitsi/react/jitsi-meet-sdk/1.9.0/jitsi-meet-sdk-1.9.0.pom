@@ -41,7 +41,7 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native</artifactId>
-      <version>0.59.2</version>
+      <version>0.42.3</version>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
